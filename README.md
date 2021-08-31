@@ -2,10 +2,10 @@
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [Working On](#WorkingOn)
+* [WorkingOn](#WorkingOn)
 ## Introduction
 > Just a guy training and learning a few skills.
-## Working On
+## WorkingOn
 - [ ] [Data Structures Application in Java](https://github.com/DanyOlous/practice-DSA)
 - [ ] Design Pattern Application exemple in Java
 - [ ] Data Analysis examples in Python

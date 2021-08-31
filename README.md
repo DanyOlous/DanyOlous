@@ -3,9 +3,9 @@ Hello, World !
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [To-Do List](#To-Do List)
+* [To-Do List](#ToDo List)
 ## Introduction
-just training and learning a few skills.
+> just training and learning a few skills.
 ## To-Do List
 - [ ] [Data Structures Application in Java](https://github.com/DanyOlous/practice-DSA)
 - [ ] Design Pattern Application exemple in Java

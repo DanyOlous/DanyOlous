@@ -3,10 +3,10 @@ Hello, World !
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [To-Do List](#ToDo List)
+* [ToDo List](#ToDo List)
 ## Introduction
-> just training and learning a few skills.
-## To-Do List
+> Just a guy training and learning a few skills.
+## ToDo List
 - [ ] [Data Structures Application in Java](https://github.com/DanyOlous/practice-DSA)
 - [ ] Design Pattern Application exemple in Java
 - [ ] Data Analysis examples in Python

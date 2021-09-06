@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 ## Introduction
 > Just a guy training and learning a few skills.
 ## WorkingOn
+### In 2021/2022
 - [ ] [Data Structures Application in Java](https://github.com/DanyOlous/practice-DSA)
 - [ ] Design Pattern Application exemple in Java
 - [ ] Data Analysis examples in Python
 - [ ] Google Machine Learning Crash Course (with TensorFlow API) in Python
-- [ ] DevOps 
+- [ ] DevOps initiation
 - [ ] Basic Web Application deployed on Azure or AWS
-- [ ] Algorithms exercices (On Hackerank & LeetCode)
-- [ ] Data Structure exercices (On Hackerank & LeetCode)
+- [ ] Data Structure & Algorithms exercices (On Hackerank & LeetCode) (C# and Java)
 - [ ] RobinHood automation Application in Python
+- [ ] Perl scripting initiation

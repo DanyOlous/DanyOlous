@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - [ ] Google Machine Learning Crash Course (with TensorFlow API) in Python
 - [ ] DevOps initiation
 - [ ] Basic Web Application deployed on Azure or AWS
-- [ ] Data Structure & Algorithms exercices (On Hackerank & LeetCode) (C# and Java)
+- [ ] [Data Structure & Algorithms exercices (On Hackerank & LeetCode) (C# and Java)](https://github.com/DanyOlous/HackerRank-LeetCode)
 - [ ] RobinHood automation Application in Python
 - [ ] Perl scripting initiation
